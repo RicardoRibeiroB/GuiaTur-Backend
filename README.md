@@ -51,12 +51,10 @@ Este projeto tem como objetivo desenvolver um aplicativo mobile completo para ce
 ## 🌐 Links Úteis
 Aqui estão alguns links importantes para facilitar o acesso às ferramentas e informações relacionadas ao projeto:
 
-- [Repositório Frontend](https://github.com/equipe-guiatur/guiatur-frontend)
-- [Repositório Backend](https://github.com/equipe-guiatur/guiatur-backend)
+- [Repositório Frontend](https://github.com/RicardoRibeiroB/GuiaTur-Frontend)
+- [Repositório Backend](https://github.com/RicardoRibeiroB/GuiaTur-Backend)
 - [Jira Software](https://guiatur.atlassian.net/jira/software/projects/GT/boards/1)
-- [Drive do Projeto](https://drive.google.com/drive/folders/projeto-guiatur)
-- [Figma - Protótipos](https://www.figma.com/design/guiatur-app)
-- [Documentação da API](https://api.guiatur.com/docs)
+- [Figma - Protótipos](https://www.figma.com/design/RbU7KABp5S96A9UwncgBXQ/Untitled?node-id=0-1&p=f&t=9jWoWvVagVbmnrFf-0)
 
 ---
 
